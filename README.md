@@ -29,7 +29,9 @@ Combined multiple visualization types to tell a complete data story
 
 # Repository Structure
 /data: The raw and processed Excel dataset.
+
 /ipynb: The code for running the data analysis project.
+
 /pptx: The presentation showing the screenshots and summary of the data analysis conducted.
 
 # Presentation Preview
