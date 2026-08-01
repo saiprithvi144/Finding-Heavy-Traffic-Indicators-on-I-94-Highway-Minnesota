@@ -27,4 +27,6 @@ Repository Structure
 /pptx: The presentation showing the screenshots and summary of the data analysis conducted.
 
 Presentation Preview
+
+
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/cacc4086-112c-4acd-ad74-f83266937c83" />
