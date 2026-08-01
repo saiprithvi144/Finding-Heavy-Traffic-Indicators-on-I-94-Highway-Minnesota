@@ -28,5 +28,8 @@ Repository Structure
 
 Presentation Preview
 
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/d64333fd-586b-4b02-9dcb-0aae85ddad22" />
+
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/b4a1d9c1-dfdd-4330-b3b5-d0f064f57fc1" />
 
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/cacc4086-112c-4acd-ad74-f83266937c83" />
